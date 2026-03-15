@@ -3,9 +3,8 @@ Open-source custom development board based on the RP2040 microcontroller with US
 
 ## Objectives
 - Build a RP2040 development board
-- Provide USB programming support
-- Break out GPIO pins for prototyping
-- Keep the design low cost and easy to assemble
+- Supports USB programming
+- Easily Accessible GPIO pins in Numeric order
 
 ## Features
 - RP2040 microcontroller at 133MHz
@@ -14,7 +13,7 @@ Open-source custom development board based on the RP2040 microcontroller with US
 - Boot and reset buttons
 - Power & 2 User LED
 - GPIO header pins
-- SWD debug interface
+- Debug connector
 - Bootsel, Reset & User Buttons
 
 ## Hardware Design
