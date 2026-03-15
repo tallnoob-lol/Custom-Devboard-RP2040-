@@ -1,10 +1,9 @@
 # Custom-Devboard-RP2040-
-Open-source custom development board based on the RP2040 microcontroller with USB programming, GPIO expansion, and hardware documentation.
+Custom development board using the RP2040 microcontroller with 20 GPIO pins, 4 ADC pins, 2 user-controlled LED, 1 user button, etc.
 
-## Objectives
-- Build a RP2040 development board
-- Supports USB programming
-- Easily Accessible GPIO pins in Numeric order
+##Why this?
+I started this project, because I wanted to learn more about KiCAD. Also, I wanted a DevBoard that i could easily prototype with. As, most of the DevBoards online had some quirks like random GPIO arrangement or doesnt have any means of displaying a output on the board itself. So, I built this and it really helped in many ways.
+
 
 ## Features
 - RP2040 microcontroller at 133MHz
@@ -22,6 +21,9 @@ The hardware design will include:
 - 16mB External QSPI flash from W25Q16JVZPIQ TR
 - USB-C interface for programming and power
 - Clock source: 12MHz Crystal
+
+## Pictures
+
 
 ## Future Improvements
 - Add Li-ion compatibility
