@@ -23,7 +23,7 @@ The hardware design will include:
 - Clock source: 12MHz Crystal
 
 ## Pictures
-![Block Diagram](pictures/PCB Schematics.png)
+-![Block Diagram](pictures/PCB Schematics.png)
 
 ## Future Improvements
 - Add Li-ion compatibility
