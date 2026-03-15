@@ -1,7 +1,7 @@
 # Custom-Devboard-RP2040-
 Custom development board using the RP2040 microcontroller with 20 GPIO pins, 4 ADC pins, 2 user-controlled LED, 1 user button, etc.
 
-##Why this?
+## Why this?
 I started this project, because I wanted to learn more about KiCAD. Also, I wanted a DevBoard that i could easily prototype with. As, most of the DevBoards online had some quirks like random GPIO arrangement or doesnt have any means of displaying a output on the board itself. So, I built this and it really helped in many ways.
 
 
