@@ -24,6 +24,10 @@ The hardware design will include:
 
 ## Pictures
 ![Block Diagram](Pictures/PCB_Schematics.png)
+![Block Diagram](Pictures/PCB_Layout_1.png)
+![Block Diagram](Pictures/PCB_Layout_2.png)
+![Block Diagram](Pictures/PCB_Front_View.png)
+![Block Diagram](Pictures/PCB_Back_View.png)
 
 ## Future Improvements
 - Add Li-ion compatibility
